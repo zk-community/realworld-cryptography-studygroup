@@ -1,2 +1,2 @@
-# zkhack-studygroup-modern-cryptography-david-wong
+# zkhack-studygroup-realworld-cryptography
 Study Group repository for notes, code and related resources
