@@ -6,10 +6,6 @@ Study Group repository for notes, code and related resources
 1) Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
  * Introduce yourself to the group and let us know what you hope to get from following along
  * Mark your meet-up time preference (see pinned comment)
-
-| Mondays | Tuesdays | Thursdays |
-| 08:30 UTC ( 🌇 ) | 15:30 UTC ( 🌒 ) | 12:30 UTC ( 🌞 ) |
-
 1) Clone this repository
  * `git clone git@github.com:zk-community/realworld-cryptography-studygroup.git`
 1) Prepare your development environment
