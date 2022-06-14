@@ -20,28 +20,38 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-        </div>
-
-        {{ content }}
-
-      <section>
-        <div id="title">
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">Chris Ward (ZK Chris)</a></span>
-          <span class="credits right">Another ZK study group on <a href="https://twitter.com/__zkhack__">ZK HACK</a></span>
-        </div>
-
-
-      </section>
-
       <div id="header">
+          <!--
+        <nav>
+          <ul>
+            <li class="fork"><a href="{{ site.github.repository_url }}">Fork On GitHub</a></li>
+          </ul>
+        </nav>
+            -->
+      </div><!-- end header -->
+
+      <div class="wrapper">
+          <section>
+            <div id="title">
+              <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+              <hr>
+            </div>
+
+            <!-- </section is inside {{ content }} -->
+            {{ content }}
+
+          <section>
+            <div id="title">
+              <hr>
+              <span class="credits left">Organized by <a href="{{ site.github.owner_url }}">Chris Ward (ZK Chris)</a></span>
+              <span class="credits right">Part of <a href="https://twitter.com/__zkhack__">ZK HACK</a></span>
+            </div>
+
+          </section>
+      </div>
+
+      <div id="footer">
         <nav>
           <ul>
             <li class="fork"><a href="{{ site.github.repository_url }}">Fork On GitHub</a></li>
@@ -49,6 +59,5 @@
         </nav>
       </div><!-- end header -->
 
-    </div>
   </body>
 </html>
