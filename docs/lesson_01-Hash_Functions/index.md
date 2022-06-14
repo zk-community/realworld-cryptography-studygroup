@@ -4,12 +4,18 @@
 
 
 **Plan:**
-* Read Chapters 1-2 of [RWC](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
-  * Understand core concepts
+* Read Chapters 0-2 of [RWC](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
+  * Understand core concepts (🎉 send pull requests with definitions/documentation updates 🎉)
 * Complete 
   * Challenge Exercises 
-  * Explainer Questions
 * Meet-up: 1x Q&A, explainers & challenge response reviews
+
+** Supplementary Papers **
+* [Cryptographic Hash-Function Basics](https://www.iacr.org/archive/fse2004/30170373/30170373.pdf)
+
+### Todo ###
+* Add sources here that were shared in exercise code / answers / pull requests
+* Prepare links/glossary of definitions and resources for all core concepts
 
 ---
 
@@ -72,9 +78,9 @@ b. Prepare 1 or more implementations in 1 or more languages of your choice; for 
 
 1) MD5 is said to be ‘insecure/broken’. Which security properties are vulnerable? Prove it. 
 
-2) Calculate the total theoretical number of attempts it would take to brute force a MD5 hash digest.
+2) Calculate the total theoretical number of attempts it would take to brute force various hashes digests (MD5, SHA-1, SHA256).
 
-3) Brute force attack on a MD5 hash digest of 8bits.
+3) Find a digest collision of the first 4/6 bits of any two input string MD5 hash digests.
 
 4) Compute one insecure (< 128 bit) and one secure (≥ 128) hash digest of the following
 
@@ -82,12 +88,23 @@ b. Prepare 1 or more implementations in 1 or more languages of your choice; for 
 - JPG: (will add to github)
 - WEBPAGE: will include a link
 
-5) Explain and demonstrate how to calculates the Hamming Distance between two strings
+5) Explain and demonstrate how to calculates the Hamming Distance between two strings.
 
 6) What is the Hamming Distance between any bytestring hashes where i1 (unmodified) and i2 has 1 bit flipped.
 
+7) Explain and demonstrate the difference b/w Second Pre-Image Resistance and Collision Resistence.
 
-### Supplementary Resources
+8) Explain and demonstrate the calculation of 'The Birthday Bound' Paradox.
 
-Papers
-* [Cryptographic Hash-Function Basics](https://www.iacr.org/archive/fse2004/30170373/30170373.pdf)
+9) Find an input string which results in a SHA256 hash with 1/2/X 0's (zero)
+
+10) Find X (look up, don't over think it): md5(X).digest() > d41d8cd98f00b204e9800998ecf8427e
+
+11) Prepare an exercise related to XOR bitwise operations (compress/uncompress)
+
+12) Prepare an exercise related to serialization / deserialization
+
+13) Explain and demonstrate the difference between cryptographic hash functions and `checksum` functions (CRC32)
+
+---
+
