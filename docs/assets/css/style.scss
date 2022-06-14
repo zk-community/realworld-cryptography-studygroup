@@ -1,12 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
+@import "jekyll-theme-midnight";
 
-.main-content {
-
-    body {
-        background: linear-gradient(#000000, #1c1c1c);
-        color: #ffffff;
-    }
+body {
+    background: linear-gradient(#000000, #1c1c1c);
+    color: #ffffff;
 }
