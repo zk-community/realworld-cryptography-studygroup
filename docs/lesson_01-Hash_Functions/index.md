@@ -1,5 +1,5 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<meta property="og:image" content="assets/rwc-cover-trans-v1.png"/>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<meta property="og:image" content="/docs/assets/rwc-cover-trans-v1.png"/>
 
 ## Lesson 1 - Hash Functions
 
