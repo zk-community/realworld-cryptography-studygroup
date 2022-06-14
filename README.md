@@ -6,6 +6,7 @@ Study Group repository for notes, code and related resources
 1) Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
  * Introduce yourself to the group and let us know what you hope to get from following along
  * Mark your meet-up time preference (see pinned comment)
+
 | Mondays   08:30 UTC ( 🌇 ) | Tuesdays  15:30 UTC ( 🌒 ) | Thursdays 12:30 UTC ( 🌞 ) |
 
 1) Clone this repository
