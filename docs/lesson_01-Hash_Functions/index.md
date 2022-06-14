@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<meta property="og:image" content="assets/rwc-cover-trans.png"/>
+
 ## Lesson 1 - Hash Functions
 
 **Expected Duration:** 2 weeks
