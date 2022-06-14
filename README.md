@@ -1,4 +1,4 @@
-<meta property="og:image" content="docs/assets/rwc-cover-trans-v1.png"/>
+<meta property="og:image" content="docs/assets/images/rwc-cover-trans-v1.png"/>
 
 ![RWC Study Group](docs/assets/rwc-cover-trans-v1.png)
 

@@ -1,8 +1,8 @@
-<meta property="og:image" content="../assets/rwc-cover-trans-v1.png"/>
+<meta property="og:image" content="../assets/images/rwc-cover-trans-v1.png"/>
 
 # Welcome to the Real World Cryptography Studygroup
 
-![RWC Study Group](../assets/rwc-cover-trans-v1.png)
+![RWC Study Group](../assets/images/rwc-cover-trans-v1.png)
 
 Welcome! This ZK Study Group will be dedicated to helping others get started on their journey to modern cryptography and zero-knowledge on the blockchain.
 

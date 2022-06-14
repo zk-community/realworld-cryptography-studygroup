@@ -1,4 +1,4 @@
-<meta property="og:image" content="../assets/rwc-cover-trans-v1.png"/>
+<meta property="og:image" content="../assets/images/rwc-cover-trans-v1.png"/>
 
 ## Lesson 1 - Hash Functions
 
