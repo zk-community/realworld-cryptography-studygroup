@@ -1,8 +1,6 @@
-<meta property="og:image" content="docs/assets/images/rwc-cover-trans-v1.png"/>
-
 ![RWC Study Group](docs/assets/images/rwc-cover-trans-v1.png)
 
-# RWC Study Group on ZK HACK
+# RWC Study Group
 Study Group repository for notes, code and related resources
 
 ## Getting started
@@ -17,8 +15,7 @@ Study Group repository for notes, code and related resources
 1) Share your questions/answers/code/exercises/ideas with the group
 1) Send pull requests for anything you'd like to include permanently in the lesson plan for future learners
 
-More information coming soon.
-
 ## Lesson Plan
 0. [Overview](docs/lesson_00-Overview/index.md)
 1. [Hash Functions](docs/lesson_01-Hash_Functions/index.md)
+1. Message Auth Codes : Coming Soon!

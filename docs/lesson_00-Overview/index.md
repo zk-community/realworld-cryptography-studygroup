@@ -1,5 +1,3 @@
-<meta property="og:image" content="../assets/images/rwc-cover-trans-v1.png"/>
-
 # Welcome to the Real World Cryptography Studygroup
 
 ![RWC Study Group](../assets/images/rwc-cover-trans-v1.png)
