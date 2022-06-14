@@ -1,8 +1,7 @@
-# Welcome to the Real World Cryptography Studygroup
-
 ![RWC Study Group](/realworld-cryptography-studygroup/assets/images/rwc-cover-trans-v1.png)
 
-Welcome! This ZK Study Group will be dedicated to helping others get started on their journey to modern cryptography and zero-knowledge on the blockchain.
+# Welcome! 
+This ZK Study Group will be dedicated to helping others get started on their journey to modern cryptography and zero-knowledge on the blockchain.
 
 ## Overview
 The primary resource and guide for the first series will be [David Wong’s Real World Cryptography, 2nd edition](https://www.manning.com/books/real-world-cryptography). 
