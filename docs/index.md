@@ -1,3 +1,5 @@
+<meta property="og:image" content="http://zeroknowledge.fm/wp-content/uploads/2022/06/RWC-Presentation-169-lq.png"/>
+
 # Welcome to the Real World Cryptography Studygroup
 
 Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
