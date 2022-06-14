@@ -7,7 +7,7 @@ Study Group repository for notes, code and related resources
  * Introduce yourself to the group and let us know what you hope to get from following along
  * Mark your meet-up time preference (see pinned comment)
 
-| Mondays   08:30 UTC ( 🌇 ) | Tuesdays  15:30 UTC ( 🌒 ) | Thursdays 12:30 UTC ( 🌞 ) |
+| Mon   08:30 UTC ( 🌇 ) | Tue  15:30 UTC ( 🌒 ) | Thu 12:30 UTC ( 🌞 ) |
 
 1) Clone this repository
  * `git clone git@github.com:zk-community/realworld-cryptography-studygroup.git`
