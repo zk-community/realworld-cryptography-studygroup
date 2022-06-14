@@ -9,7 +9,7 @@
 * Complete 
   * Challenge Exercises 
   * Explainer Questions
-* Meet-up: Q&A, explainers & challenge response reviews
+* Meet-up: 1x Q&A, explainers & challenge response reviews
 
 ---
 
@@ -63,29 +63,28 @@
 
 ---
 
-**Explain**
-
-1) MD5 is said to be ‘insecure/broken’. Under what example scenarios might it still be a valid / usable solution?
-
-2) What is the theoretical number of attempts it would take to brute force a MD5 hash digest of 1bit? 12bits? 24bits?
-
-3) What is and how to calculate the Hamming Distance measure between two arbitrary strings.
-
 **Challenge Exercises**
 
-Complete in 1+ lang of your choice; for example, Python | Rust | Javascript
+Explain your answers in English, such that anyone reading the answer for the first time can follow-along.
 
-1) Compute one insecure (< 128 bit) and one secure (≥ 128) hash digest of the following
+Prepare 1 or more implementations in 1 or more languages of your choice; for example, Python | Rust | Javascript.
+
+1) MD5 is said to be ‘insecure/broken’. Which security properties are vulnerable? Prove it. 
+
+2) Calculate the total theoretical number of attempts it would take to brute force a MD5 hash digest.
+
+3) Brute force attack on a MD5 hash digest of 8bits.
+
+4) Compute one insecure (< 128 bit) and one secure (≥ 128) hash digest of the following
 
 - STRING: “The secret to a successful life - never stop learning!”
 - JPG: (will add to github)
 - WEBPAGE: will include a link
 
-2) Brute force attack on a MD5 hash digest of 8bits.
+5) Explain and demonstrate how to calculates the Hamming Distance between two strings
 
-3) Prepare a function which calculates the Hamming Distance between two strings
+6) What is the Hamming Distance between any bytestring hashes where i1 (unmodified) and i2 has 1 bit flipped.
 
-4) Given an unmodified hash value of any arbitrary string and the hash value of that same string with after flipping 1bit, output the Hamming Distance measure between the two outputs.
 
 ### Supplementary Resources
 
