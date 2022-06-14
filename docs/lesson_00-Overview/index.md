@@ -14,6 +14,8 @@ The study group aims to split its time between book study, and practical impleme
 
 Participants are encouraged to actively contribute questions, answers, code, notes, examples, challenges in the discord group chat, and during meetups as they make their way through the materials.
 
+Don't forget to introduce yourself to the group and let us know what you hope to get from following along
+ 
 The group is encouraged to invite guest speakers to provide additional content for the group to study, discuss and learn from. Guest appearances are ‘best effort’, and will be managed by the group as a whole.
 
 Additional links and resources will be added to this [repository](https://github.com/zk-community/realworld-cryptography-studygroup/) as the study group evolves. 
@@ -21,16 +23,14 @@ Additional links and resources will be added to this [repository](https://github
 ## Lesson Plan
 0. [Overview](lesson_00-Overview/index.md)
 1. [Hash Functions](lesson_01-Hash_Functions/index.md)
-1. Message Auth Codes : Coming Soon!
+2. Message Auth Codes : Coming Soon!
 
 ## Getting started
 
-1) Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
- * Introduce yourself to the group and let us know what you hope to get from following along
- * Mark your meet-up time preference (see pinned comment)
-1) Clone this repository
- * `git clone git@github.com:zk-community/realworld-cryptography-studygroup.git`
-1) Prepare your development environment
-1) Learn and build
-1) Share your questions/answers/code/exercises/ideas with the group
-1) Send pull requests for anything you'd like to include permanently in the lesson plan for future learners
+1. Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
+2. Mark your meet-up time preference (see pinned comment)
+3. Clone this repository
+4. Prepare your development environment
+5. Learn and build
+6. Share your questions/answers/code/exercises/ideas with the group
+7. Send pull requests for anything you'd like to include permanently in the lesson plan for future learners
