@@ -1,5 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta property="og:image" content="/docs/assets/rwc-cover-trans-v1.png"/>
+<meta property="og:image" content="../assets/rwc-cover-trans-v1.png"/>
 
 # Welcome to the Real World Cryptography Studygroup
 
