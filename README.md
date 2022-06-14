@@ -1,5 +1,7 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta property="og:image" content="docs/assets/cover-real-world-cryptography.png"/>
+<link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
+<meta property="og:image" content="docs/assets/rwc-cover-trans-v1.png"/>
+
+![RWC Study Group](docs/assets/rwc-cover-trans-v1.png)
 
 # RWC Study Group on ZK HACK
 Study Group repository for notes, code and related resources
