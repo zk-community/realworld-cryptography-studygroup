@@ -65,9 +65,10 @@
 
 **Challenge Exercises**
 
-Explain your answers in English, such that anyone reading the answer for the first time can follow-along.
+a. Explain your answers in English, such that anyone reading the answer for the first time can follow-along.
+b. Prepare 1 or more implementations in 1 or more languages of your choice; for example: Python, Rust, Javascript.
 
-Prepare 1 or more implementations in 1 or more languages of your choice; for example, Python | Rust | Javascript.
+---
 
 1) MD5 is said to be ‘insecure/broken’. Which security properties are vulnerable? Prove it. 
 
