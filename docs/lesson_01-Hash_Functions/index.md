@@ -82,29 +82,23 @@ b. Prepare 1 or more implementations in 1 or more languages of your choice; for 
 
 3) Find a digest collision of the first 4/6 bits of any two input string MD5 hash digests.
 
-4) Compute one insecure (< 128 bit) and one secure (≥ 128) hash digest of the following
+6) Explain and demonstrate how to calculates the Hamming Distance between two strings.
 
-- STRING: “The secret to a successful life - never stop learning!”
-- JPG: (will add to github)
-- WEBPAGE: will include a link
+7) What is the Hamming Distance between any bytestring hashes where i1 (unmodified) and i2 has 1 bit flipped.
 
-5) Explain and demonstrate how to calculates the Hamming Distance between two strings.
+8) Explain and demonstrate the difference b/w Second Pre-Image Resistance and Collision Resistence.
 
-6) What is the Hamming Distance between any bytestring hashes where i1 (unmodified) and i2 has 1 bit flipped.
+9) Explain and demonstrate the calculation of 'The Birthday Bound' Paradox.
 
-7) Explain and demonstrate the difference b/w Second Pre-Image Resistance and Collision Resistence.
+10) Find an input string which results in a SHA256 hash with 1/2/X 0's (zero)
 
-8) Explain and demonstrate the calculation of 'The Birthday Bound' Paradox.
+11) Find X (look up, don't over think it): md5(X).digest() > d41d8cd98f00b204e9800998ecf8427e
 
-9) Find an input string which results in a SHA256 hash with 1/2/X 0's (zero)
+12) Prepare an exercise related to XOR bitwise operations (compress/uncompress)
 
-10) Find X (look up, don't over think it): md5(X).digest() > d41d8cd98f00b204e9800998ecf8427e
+13) Prepare an exercise related to serialization / deserialization
 
-11) Prepare an exercise related to XOR bitwise operations (compress/uncompress)
-
-12) Prepare an exercise related to serialization / deserialization
-
-13) Explain and demonstrate the difference between cryptographic hash functions and `checksum` functions (CRC32)
+14) Explain and demonstrate the difference between cryptographic hash functions and `checksum` functions (CRC32)
 
 ---
 
