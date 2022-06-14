@@ -2,7 +2,8 @@
 Study Group repository for notes, code and related resources
 
 ## Getting started
-1) https://zk-community.github.io/realworld-cryptography-studygroup/lesson_01-Hash_Functions/
+
+1) Join the group on the [ZK HACK Discord server](https://discord.gg/xSWfCgDYZb)
  * Introduce yourself to the group and let us know what you hope to get from following along
 1) Clone this repository
  * `git clone git@github.com:zk-community/realworld-cryptography-studygroup.git`
