@@ -1,4 +1,4 @@
-# zkhack-studygroup-realworld-cryptography
+# Welcome to the RWC Study Group on ZK HACK
 Study Group repository for notes, code and related resources
 
 # Getting started
