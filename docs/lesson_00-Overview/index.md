@@ -21,8 +21,8 @@ The group is encouraged to invite guest speakers to provide additional content f
 Additional links and resources will be added to this [repository](https://github.com/zk-community/realworld-cryptography-studygroup/) as the study group evolves. 
 
 ## Lesson Plan
-0. [Overview](/lesson_00-Overview/index.md)
-1. [Hash Functions](/lesson_01-Hash_Functions/index.md)
+0. [Overview](/realworld-cryptography-studygroup/lesson_00-Overview/index.md)
+1. [Hash Functions](/realworld-cryptography-studygroup/lesson_01-Hash_Functions/index.md)
 2. Message Auth Codes : Coming Soon!
 
 ## Getting started
