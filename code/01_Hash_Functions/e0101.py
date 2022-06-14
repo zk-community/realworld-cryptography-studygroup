@@ -3,16 +3,23 @@
 # License: MIT
 # Author: Chris Ward <chris@zeroknowledge.fm>
 
-__app_name__ = "rwc-exercise-01-01"
-__version__ = "0.1.0"
+CHAPTER  = '01'
+EXERCISE = '03'
+NAME     = 'Breaking MD5'
+
 '''
-0.1.0: An example breaking MD5
+Demonstration of breaking MD5 hash security properties
 '''
+
+__version__     = "0.1.0"
+__app_name__    = f"rwc-exercise-{CHAPTER}-{EXERCISE}"
+__description__ = f'RWC C{CHAPTER} E{EXERCISE}: {NAME} v{__version__}' 
 
 import hashlib
 import os
 
 from IPython.display import Image, display
+# --------------------------------------------------------------------
 
 DIGESTS = {
     'md5': hashlib.md5,
@@ -59,7 +66,9 @@ def detect_collision(m1, m2, hasher):
     return collided
 
 
+# --------------------------------------------------------------------
 def main():
+    print (__description__)
     # Point to image files
     fn1 = 'assets/photo-1-md5hash-collide.jpeg'
     fn2 = 'assets/photo-2-md5hash-collide.jpeg'
